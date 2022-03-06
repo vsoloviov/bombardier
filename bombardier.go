@@ -12,7 +12,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/codesenberg/bombardier/internal"
+	"github.com/vsoloviov/bombardier/internal"
 
 	"github.com/cheggaaa/pb"
 	fhist "github.com/codesenberg/concurrent/float64/histogram"
